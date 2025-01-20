@@ -8,5 +8,5 @@ Steps to run it on your pc:
 6.     python manage.py makemigrations
 7.     python manage.py migrate
 8.     python manage.py runserver
-
+9. install redis
 Now you are good to go
